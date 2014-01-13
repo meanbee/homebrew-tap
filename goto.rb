@@ -2,7 +2,7 @@ require 'formula'
 
 class Goto < Formula
 	homepage 'https://github.com/shawesome/goto'
-    url 'http://cdn.meanbee.com.s3.amazonaws.com/brew/dac/goto-3fbc5bfdb03013f535915ca7912db70c4fcc0be4.tar.gz'
+    url 'http://cdn.meanbee.com/brew/dac/goto-3fbc5bfdb03013f535915ca7912db70c4fcc0be4.tar.gz'
     sha1 'cb261abe84ee8f75344d8a7bc2a35889dbbce72d'
 
     def install
