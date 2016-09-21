@@ -3,7 +3,7 @@ require 'formula'
 class Goto < Formula
   homepage 'https://github.com/shawesome/goto'
   url 'http://cdn.meanbee.com/brew/dac/goto-3fbc5bfdb03013f535915ca7912db70c4fcc0be4.tar.gz'
-  sha1 'cb261abe84ee8f75344d8a7bc2a35889dbbce72d'
+  sha256 '11d02898f092b04f792558a191eecf30b50bfdf739a7debec6e926e05887fd78'
 
   def install
     bin.install "goto"
